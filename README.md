@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<p>- 🌱 I’m currently learning Python and Lua </p>
+<p aling="center">- 🌱 I’m currently learning Python and Lua </p>
 </br>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minecraftakcz360&show_icons=true&theme=dark&locale=en" alt="minecraftakcz360" /></p>
